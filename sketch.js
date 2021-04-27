@@ -15,7 +15,7 @@ function setup() {
   createSprite(400, 200, 50, 50);
   engine = Engine.create();
     world = engine.world;
-    snow1=new snow ()
+    snow1=new Snow ()
 }
 
 function draw() {
